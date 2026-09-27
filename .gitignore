@@ -1,1 +1,5 @@
-./main
+# used for testing
+main.c
+
+#the bin itself
+main
