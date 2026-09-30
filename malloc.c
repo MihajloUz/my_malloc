@@ -44,7 +44,6 @@ void *mmalloc(size_t size) {  //the part where we find the next not occupied chu
     }
 }
 
-
 void mfree(void *addr) {
     if (addr == NULL)
         return;
